@@ -363,3 +363,16 @@ This client is open source. The underlying Apify actor is a paid service ($0.003
 ## Keywords
 
 `woocommerce-scraper` `woocommerce-api` `wp-json` `woocommerce-store-api` `wordpress-scraper` `ecommerce-scraper` `product-scraper` `catalog-scraper` `woocommerce-to-shopify` `shopify-migration` `shopify-csv-export` `google-merchant-feed` `google-shopping-feed` `competitor-intelligence` `price-monitoring` `web-scraping` `apify` `apify-actor` `python-sdk` `woocommerce-without-api-key` `wp-store-api` `dropshipping-research` `niche-analysis` `aov-estimator` `catalog-snapshot`
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run WooCommerce Scraper — Bulk Products & CSV API on Apify](https://apify.com/apivault_labs/woocommerce-product-scraper).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/woocommerce-product-scraper/pricing).
+- [n8n community package: n8n-nodes-apivault-woocommerce](https://www.npmjs.com/package/n8n-nodes-apivault-woocommerce).
+- [Python client](https://github.com/apivault-labs/apivault-labs/tree/main/python-clients/apivault-woocommerce-product-scraper).
+- [n8n source and usage](https://github.com/apivault-labs/n8n-nodes-apivault-woocommerce).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-woocommerce).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
